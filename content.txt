@@ -21,7 +21,7 @@ Three-toed sloth featured with an ant-eater, a platypus & armadillos.
 They are classified in the order Pilosa because they are related to anteaters, which sport a similar set of specialized claws. Extinct sloth species include many megafaunal ground sloths, some of which attained the size of elephants, as well as a few species of marine sloths. Extant sloths are medium-sized arboreal (tree-dwelling) residents of the jungles of Central and South America.
 Sloths make good habitats for other organisms, and a single sloth may be home to moths, beetles, cockroaches, fungi, ciliates, and algae.
 
-[Read more](https://en.wikipedia.org/wiki/Sloth)
+[Read more] (https://en.wikipedia.org/wiki/Sloth)
 
 ---
 
